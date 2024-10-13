@@ -67,7 +67,7 @@ p {
     font-size: 1rem;
 }
 .card {
-    background-color: var(--neutral-pale-color);
+    background-color: hsl(0, 0%, 100%);
     width: 60%;
     margin: 3rem auto;
     border-radius: 20px;
